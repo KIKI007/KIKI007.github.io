@@ -6,89 +6,26 @@
     <description>Recent content on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 May 2021 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 10:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>State of the Art on Computational Design of Assemblies with Rigid Parts</title>
-      <link>/talk/egstar2021/</link>
-      <pubDate>Tue, 04 May 2021 10:00:00 +0000</pubDate>
+      <title>Talks</title>
+      <link>/talk/</link>
+      <pubDate>Mon, 09 Aug 2021 10:00:00 +0000</pubDate>
       
-      <guid>/talk/egstar2021/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MOCCA: Modeling and Optimizing Cone-joints for Complex Assemblies</title>
-      <link>/publication/mocca/</link>
+      <title>Publications</title>
+      <link>/publication/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mocca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State of the Art on Computational Design of Assemblies with Rigid Parts</title>
-      <link>/publication/assemblysurvey/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/assemblysurvey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational Assembly for Fabrication: Shape Optimization</title>
-      <link>/talk/cfseminar/</link>
-      <pubDate>Fri, 26 Mar 2021 09:00:00 +0000</pubDate>
-      
-      <guid>/talk/cfseminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reusable support for additive manufacturing</title>
-      <link>/publication/reusableam/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/reusableam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design and Structural Optimization of Topological Interlocking Assemblies</title>
-      <link>/publication/topological_interlocking/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/topological_interlocking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DESIA: A General Framework for Designing Interlocking Assemblies</title>
-      <link>/publication/desia/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/desia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machined Sharp Edge Restoration For Triangle Mesh Workpiece Models Derived From Grid-Based Machining Simulation</title>
-      <link>/publication/machined-sharp-edge-restoration/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/machined-sharp-edge-restoration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CofiFab: Coarse-to-Fine Fabrication of Large 3D Objects</title>
-      <link>/publication/cofifab/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cofifab/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
