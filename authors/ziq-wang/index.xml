@@ -6,10 +6,19 @@
     <description>Recent content in **Ziq Wang** on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/ziq-wang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computational Design of High-level Interlocking Puzzles</title>
+      <link>/publication/high-level-puzzle/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/high-level-puzzle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOCCA: Modeling and Optimizing Cone-joints for Complex Assemblies</title>

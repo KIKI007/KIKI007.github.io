@@ -6,10 +6,28 @@
     <description>Recent content in 0 on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 09:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computational Assemblies:  Analysis, Design, and Fabrications</title>
+      <link>/talk/eg-2022-course/</link>
+      <pubDate>Mon, 25 Apr 2022 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/eg-2022-course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semiramis</title>
+      <link>/publication/semiramis/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/semiramis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOCCA: Modeling and Optimizing Cone-joints for Complex Assemblies</title>
