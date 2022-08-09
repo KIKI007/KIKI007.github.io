@@ -6,10 +6,19 @@
     <description>Recent content in Authors on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ziqi Wang</title>
+      <link>/authors/ziqi-wang/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ziqi-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**Ziq Wang**</title>
@@ -153,7 +162,7 @@
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Ziqi Wang is currently a Postdoctoral Reaseacher at &lt;a href=&#34;crl.ethz.ch&#34;&gt;Computational Robotics Lab (CRL)&lt;/a&gt;, ETH Zurich.  He finished his Ph.D. degree at &lt;a href=&#34;http://lgg.epfl.ch&#34;&gt;Geometric Computing Laboratory (GCM)&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;EPFL&lt;/a&gt;, supervised by Prof. Mark Pauly. The topic of his study mainly focuses on designing 3D assemblies using computational methods. Particularly, his work can be applied to design &lt;a href=&#34;https://lgg.epfl.ch/publications/2018/DESIA/index.php&#34;&gt;3D interlocking puzzles&lt;/a&gt;, &lt;a href=&#34;https://lgg.epfl.ch/publications/2019/Topological_Interlocking/index.php&#34;&gt;topological interlocking assemblies&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Ziqi was also a Ph.D. researcher at &lt;a href=&#34;http://dfab.ch&#34;&gt;NCCR Digital Fabrication&lt;/a&gt; where he developed computational methods for &lt;a href=&#34;https://dfab.ch/streams/spatial-timber-assemblies&#34;&gt;Spatial Timber Assemblies&lt;/a&gt; and &lt;a href=&#34;https://dfab.ch/streams/large-span-self-supporting-assemblies&#34;&gt;Large-Span Self-Supporting Assemblies&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ziqi was also a Ph.D. researcher at &lt;a href=&#34;http://dfab.ch&#34;&gt;NCCR Digital Fabrication&lt;/a&gt; where we developed computational methods for &lt;a href=&#34;https://dfab.ch/streams/spatial-timber-assemblies&#34;&gt;Spatial Timber Assemblies&lt;/a&gt; and &lt;a href=&#34;https://dfab.ch/streams/large-span-self-supporting-assemblies&#34;&gt;Large-Span Self-Supporting Assemblies&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
