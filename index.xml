@@ -6,7 +6,7 @@
     <description>Recent content on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/publication/</guid>
       <description></description>
@@ -27,16 +27,6 @@
       
       <guid>/talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

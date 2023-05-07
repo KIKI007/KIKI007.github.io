@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Ziqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,90 @@
     <item>
       <title>**Ziq Wang**</title>
       <link>/authors/ziq-wang/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/authors/ziq-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bailin Deng</title>
+      <link>/authors/bailin-deng/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bailin-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernhard Thomaszewski</title>
+      <link>/authors/bernhard-thomaszewski/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bernhard-thomaszewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Kennel-Maushart</title>
+      <link>/authors/florian-kennel-maushart/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/florian-kennel-maushart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Song</title>
+      <link>/authors/peng-song/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/peng-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengyun Qiu</title>
+      <link>/authors/pengyun-qiu/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pengyun-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rulin Chen</title>
+      <link>/authors/rulin-chen/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rulin-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stelian Coros</title>
+      <link>/authors/stelian-coros/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stelian-coros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yijiang Huang</title>
+      <link>/authors/yijiang-huang/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yijiang-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ying He</title>
+      <link>/authors/ying-he/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ying-he/</guid>
       <description></description>
     </item>
     
@@ -26,24 +107,6 @@
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/bernd-bickel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peng Song</title>
-      <link>/authors/peng-song/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/peng-song/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rulin Chen</title>
-      <link>/authors/rulin-chen/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rulin-chen/</guid>
       <description></description>
     </item>
     
@@ -138,15 +201,6 @@
     </item>
     
     <item>
-      <title>Bailin Deng</title>
-      <link>/authors/bailin-deng/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/bailin-deng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chi-Wing Fu</title>
       <link>/authors/chi-wing-fu/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
@@ -188,8 +242,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Ziqi Wang is currently a Postdoctoral Reaseacher at &lt;a href=&#34;crl.ethz.ch&#34;&gt;Computational Robotics Lab (CRL)&lt;/a&gt;, ETH Zurich.  He finished his Ph.D. degree at &lt;a href=&#34;http://lgg.epfl.ch&#34;&gt;Geometric Computing Laboratory (GCM)&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;EPFL&lt;/a&gt;, supervised by Prof. Mark Pauly. The topic of his study mainly focuses on designing 3D assemblies using computational methods. Particularly, his work can be applied to design &lt;a href=&#34;https://lgg.epfl.ch/publications/2018/DESIA/index.php&#34;&gt;3D interlocking puzzles&lt;/a&gt;, &lt;a href=&#34;https://lgg.epfl.ch/publications/2019/Topological_Interlocking/index.php&#34;&gt;topological interlocking assemblies&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Ziqi was also a Ph.D. researcher at &lt;a href=&#34;http://dfab.ch&#34;&gt;NCCR Digital Fabrication&lt;/a&gt; where we developed computational methods for &lt;a href=&#34;https://dfab.ch/streams/spatial-timber-assemblies&#34;&gt;Spatial Timber Assemblies&lt;/a&gt; and &lt;a href=&#34;https://dfab.ch/streams/large-span-self-supporting-assemblies&#34;&gt;Large-Span Self-Supporting Assemblies&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Postdoctoral Reaseacher at &lt;a href=&#34;crl.ethz.ch&#34;&gt;Computational Robotics Lab (CRL)&lt;/a&gt;, ETH Zurich. My research is centered on &lt;strong&gt;computational assemblies&lt;/strong&gt;, with the objective of designing, analyzing, and fabricating complex assemblies using sophisticated computational techniques. My work has potential applications in various fields, including toy and furniture design, mechanical engineering, and architecture.&lt;/p&gt;
+&lt;p&gt;In 2021, I earned my Ph.D. degree at &lt;a href=&#34;http://lgg.epfl.ch&#34;&gt;Geometric Computing Laboratory (GCM)&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/en/home/&#34;&gt;EPFL&lt;/a&gt;, supervised by Prof. Mark Pauly. Before that, I obtained my bachelor&#39;s degree in Mathematics in 2017 from the University of Science and Technology of China. Since 2018, my research has been supported by &lt;a href=&#34;http://dfab.ch&#34;&gt;NCCR Digital Fabrication&lt;/a&gt; where we developed computational methods for &lt;a href=&#34;https://dfab.ch/streams/spatial-timber-assemblies&#34;&gt;Spatial Timber Assemblies&lt;/a&gt; and &lt;a href=&#34;https://dfab.ch/streams/large-span-self-supporting-assemblies&#34;&gt;Large-Span Self-Supporting Assemblies&lt;/a&gt;. At present, my research focus within NCCR Dfab is on Digital Timber and Human-Robot Collaborative Construction.&lt;/p&gt;
 </description>
     </item>
     
