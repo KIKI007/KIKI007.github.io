@@ -15,9 +15,9 @@ nav_order: 2
 
 ### Ph.D. Positions (2025 Spring/Fall)
 
-We are excited to announce two open Ph.D. positions starting in 2025 at the newly established Computational Assemblies Lab within the Division of Integrative Systems and Design (ISD) at HKUST. Our lab is dedicated to conduct interdisciplinary research aimed at addressing real-world design and fabrication challenges by combining artificial intelligence and robotics.
+We are excited to announce two open Ph.D. positions starting in 2025 at the newly established Computational Assemblies Lab within the Division of Integrative Systems and Design (ISD) at HKUST. Our lab is dedicated to conducting interdisciplinary research to address real-world design and fabrication challenges by combining artificial intelligence and robotics.
 
-This year, we are particularly interested in candidates with a strong interest in designing and fabricating of complex assemblies. The project will focus on applying artificial intelligence to design assemblies that can be safely and efficiently constructed using a team of humans and mobile robots. Successful candidates are expected to lead an interdisciplinary team and implement their thesis work in real-world projects through collaboration with teammates from various fields.
+This year, we are particularly interested in candidates with a strong interest in designing and fabricating complex assemblies. The project will focus on applying artificial intelligence to design assemblies that can be safely and efficiently constructed using a team of humans and mobile robots. Successful candidates are expected to lead an interdisciplinary team and implement their thesis work in real-world projects through collaboration with teammates from various fields.
 
 We welcome applicants with a background in:
 
