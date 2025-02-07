@@ -28,4 +28,4 @@ We welcome applicants with a background in:
 - Civil Engineering
 - Architecture
 
-If you are interested in joining our team, please contact me at <ziqi.wang@epfl.ch>. Please attach your resume, transcript, and design portfolio (for architectural applicants) when contacting.
+If you are interested in joining our team, please contact me at <ziqiw@ust.hk>. Please attach your resume, transcript, and design portfolio (for architectural applicants) when contacting.
