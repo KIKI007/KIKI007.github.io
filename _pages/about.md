@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher, EPFL.
+subtitle: Assistant Professor, HKUST.
 
 profile:
   align: right
