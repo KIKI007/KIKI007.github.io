@@ -1,34 +1,31 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, HKUST
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ziqi_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
+    <p>Rm 1002, IAS Buidling, </p>
+    <p>HKUST</p>
+    <p>Hong Kong, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Ziqi Wang is an assistant professor at the Division of Integrative Systems and Design, Hong Kong University of Science and Technology. His research interest is centered on **computational assemblies**, with the objective of designing, analyzing and fabricating complex assemblies using computation and robotics. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He was a postdoctoral researcher jointly appointed at the Creative Computation Lab and Sycamore at EPFL, supervised by Prof. Stefana Parascho and Prof. Maryam Kamgarpour. Previously, from 2022 to 2024, He was a postdoctoral researcher at the Computational Robotics Lab, ETH Zurich, advised by Prof. Stelian Coros. He completed his Ph.D. at the Geometric Computing Laboratory (GCM) at EPFL in 2021, guided by Prof. Mark Pauly. Before his Ph.D., he earned his Bachelor's in Mathematics in 2017 from the University of Science and Technology of China (USTC).
