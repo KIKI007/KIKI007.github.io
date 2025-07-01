@@ -216,8 +216,17 @@ ul.task-list input[type="checkbox"] {
 }
 
 @media (min-width: 576px) {
-  .profile {
+  .profile.main_profile {
     width: 30%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+  .profile.member_profile {
+    width: 15%;
 
     .address {
       p {

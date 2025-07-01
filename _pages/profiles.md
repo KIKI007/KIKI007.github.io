@@ -9,12 +9,12 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - align: left
     image: members/wenjun_pic.jpg
     content: members/about_wenjun.md
     image_circular: false # crops the image to make it circular
     more_info: wenjunliu@ust.hk
-  - align: right
+  - align: left
     image: members/erxiang_pic.jpg
     content: members/about_erxiang.md
     image_circular: false # crops the image to make it circular

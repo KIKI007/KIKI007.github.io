@@ -1,12 +1,12 @@
 ---
 layout: page
 ---
-<div class="post">
+<div class="post" style="margin: 0 0 0 0;">
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+        <div class="profile member_profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
@@ -22,7 +22,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
+        <div class="clearfix" style="max-width: 500px; margin: 50px auto 0 300px;">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
