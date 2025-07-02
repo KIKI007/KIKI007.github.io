@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-open-positions",
           title: "Open Positions",
-          description: "Computational Assemblies Lab, ISD, HKUST",
+          description: "Robotic Fabrication Lab, HKUST",
           section: "Navigation",
           handler: () => {
             window.location.href = "/opening/";
