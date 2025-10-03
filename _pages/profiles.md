@@ -13,10 +13,15 @@ profiles:
     image: members/wenjun_pic.jpg
     content: members/about_wenjun.md
     image_circular: false # crops the image to make it circular
-    more_info: wenjunliu@ust.hk
+    more_info: wliucy@connect.ust.hk
   - align: left
     image: members/erxiang_pic.jpg
     content: members/about_erxiang.md
     image_circular: false # crops the image to make it circular
     more_info: eluoaa@connect.ust.hk
+  - align: left
+    image: members/xingxin_pic.webp
+    content: members/about_xingxin.md
+    image_circular: false # crops the image to make it circular
+    more_info: xhecj@connect.ust.hk
 ---
