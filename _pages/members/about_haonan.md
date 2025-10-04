@@ -1,0 +1,1 @@
+Haonan Zhang is a Ph.D. student in the Robotic Fabrication Lab (RFL) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ziqi Wang. He holds a Bachelor’s degree in Applied Mathematics from Lomonosov Moscow State University and a Master’s degree in Computer Science from Johns Hopkins University.

@@ -24,4 +24,9 @@ profiles:
     content: members/about_xingxin.md
     image_circular: false # crops the image to make it circular
     more_info: xhecj@connect.ust.hk
+  - align: left
+    image: members/haonan_pic.jpg
+    content: members/about_haonan.md
+    image_circular: false # crops the image to make it circular
+    more_info: haonan.zhang@connect.ust.hk
 ---
