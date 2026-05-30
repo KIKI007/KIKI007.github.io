@@ -7,15 +7,15 @@ nav: true
 nav_order: 2
 ---
 
-We are seeking RAs, PhDs, and Postdocs to join our Robotic Fabrication Lab in the Division of Integrative Systems and Design (ISD) at HKUST. Our lab focuses on interdisciplinary research that combines AI and robotics to tackle real-world design and fabrication challenges.
+We are seeking Research Assistants and Ph.D. students to join the Robotic Fabrication Lab in the Division of Integrative Systems and Design (ISD) at HKUST. Our lab conducts interdisciplinary research at the intersection of AI, robotics, computational design, and fabrication, with the goal of addressing real-world challenges in design, manufacturing, and construction.
 
-This year, we are particularly interested in candidates passionate about Vision-Language-Action Models (VLA) to help develop new service robots for daily household tasks. Our team is part of the Von Neumann Institute at HKUST, equipped with two Franka Emika Panda robots and two UR10e robots. 
+We are currently prioritizing candidates for Fall 2027 admission with a strong background in computer graphics, especially those with publications at SIGGRAPH, SIGGRAPH Asia, or related top venues. Successful candidates will work on topics including:
+* Computational fabrication
+* AI-assisted CAD/CAE/CAM
+  
+We also welcome candidates with experience in robotics, particularly in the following areas:
 
-No prior experience with robots is required, but we welcome candidates with experience in:
+* Robot hardware and end effector design
+* Vision-language-action models
 
-- Vision-Language-Action Model
-- Vision-Language Model
-- Diffusion Policy
-- Large Language Model (Training and Fine-tuning)
-
-Please contact me at <ziqiw@ust.hk>, attaching your resume and transcript.
+Interested candidates should contact me at [ziqiw@ust.hk](mailto:ziqiw@ust.hk) and include their CV/resume and transcript.
