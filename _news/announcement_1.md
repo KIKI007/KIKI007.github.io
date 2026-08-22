@@ -2,7 +2,7 @@
 layout: post
 date: 2026-5-29 15:59:00-0400
 inline: false
-title: We have opening for 2027 Fall in Graphics and Embodied AI. 
+title: Opening for 2027 Fall in Computer Graphics. 
 related_posts: false
 ---
 
@@ -14,7 +14,6 @@ We are currently prioritizing candidates for Fall 2027 admission with a strong b
   
 We also welcome candidates with experience in robotics, particularly in the following areas:
 
-* Robot hardware and end effector design
-* Vision-language-action models
+* Humanoid
 
 Interested candidates should contact me at [ziqiw@ust.hk](mailto:ziqiw@ust.hk) and include their CV/resume and transcript.
