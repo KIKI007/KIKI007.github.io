@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-open-positions",
-          title: "Open Positions",
-          description: "Robotic Fabrication Lab, HKUST",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/opening/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "People",
@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-have-opening-for-2027-fall-in-graphics-and-embodied-ai",
-          title: 'We have opening for 2027 Fall in Graphics and Embodied AI.',
+            },},{id: "news-opening-for-2027-fall-in-computer-graphics",
+          title: 'Opening for 2027 Fall in Computer Graphics.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
@@ -455,6 +455,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teaching-isd-seminar-2026-fall",
+          title: 'ISD Seminar 2026 Fall',
+          description: "Postgraduate Seminars",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/seminar2026/";
             },},{
         id: 'social-email',
         title: 'email',
