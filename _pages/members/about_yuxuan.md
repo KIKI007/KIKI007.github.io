@@ -1,0 +1,1 @@
+Yuxuan Jiang is a Ph.D. student in the Robotic Fabrication Lab (RFL) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Ziqi Wang. She holds a Bachelor’s degree in Automation from Harbin Institute of Technology, Shenzhen (HITSZ).

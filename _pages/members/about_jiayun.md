@@ -1,0 +1,1 @@
+Jiayun Li is an M.Phil. student in the Robotic Fabrication Lab (RFL) at the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Ziqi Wang. She received her Bachelor's degree in Integrative Systems and Design from HKUST.

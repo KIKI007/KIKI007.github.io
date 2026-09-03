@@ -9,7 +9,7 @@ profile:
   image: ziqi_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:
-    <p>Rm 1002, IAS Buidling, </p>
+    <p>Room 5326, Academic Building, </p>
     <p>HKUST</p>
     <p>Hong Kong, China</p>
 

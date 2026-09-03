@@ -32,5 +32,23 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+    
+    {% if page.interns %}
+  <hr style="margin-top: 3rem; margin-bottom: 2rem;">
+
+  <div class="interns-section" style="margin-bottom: 2rem;">
+    <h2 style="margin-top: 0; margin-bottom: 0.75rem;">
+      Interns
+    </h2>
+
+    <ul style="margin-top: 0;">
+      {% for intern in page.interns %}
+        <li>
+          <strong>{{ intern.name }}</strong> — {{ intern.school }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
   </article>
 </div>
