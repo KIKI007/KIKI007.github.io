@@ -1,0 +1,1 @@
+Xin Zheng is a Ph.D. student in the Robotic Fabrication Lab (RFL) at the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Ziqi Wang. He received his Bachelor’s degree in Computer Science from Beijing University of Posts and Telecommunications and his Master’s degree in Software Engineering from the University of Chinese Academy of Sciences.
