@@ -52,7 +52,7 @@ related_publications: true
         <td>Prof. Ziqi Wang</td>
         <td>
           <a href="#shi-fan">
-            TBD
+            Simulation Is Back: Scaling Contact-Rich, Long-Horizon Manipulation
           </a>
         </td>
       </tr>
@@ -83,7 +83,7 @@ related_publications: true
 <section id="shi-fan" class="seminar-talk">
 
   <h2>
-    TBD
+    Simulation Is Back: Scaling Contact-Rich, Long-Horizon Manipulation
   </h2>
 
   <!-- Speaker + basic information -->
@@ -92,7 +92,7 @@ related_publications: true
     <div class="col-md-3 mb-4">
       {% include figure.liquid
         loading="eager"
-        path="assets/img/course/seminar2026/shifan.png"
+        path="assets/img/course/seminar2026/shifan/shifan.png"
         title="Professor SHI, Fan"
         class="img-fluid rounded z-depth-1"
       %}
@@ -122,7 +122,7 @@ related_publications: true
   <h4 class="mt-4">Speaker Bio</h4>
 
   <p>
-    Prof. Shi Fan is an Assistant Professor in the Department of Electrical and Computer Engineering at the National University of Singapore (NUS), where he directs the Human-Centered Robotic Lab and is a recipient of the NUS Presidential Young Professorship. Prior to joining NUS, he was a Postdoctoral Fellow at the ETH AI Center, working with Prof. Stelian Coros and Prof. Marco Hutter. He received his PhD from the University of Tokyo, where he conducted research at the JSK Lab under the supervision of Prof. Masayuki Inaba and Prof. Kei Okada, and was also a visiting researcher at the Robotic Systems Lab at ETH Zurich. He received his bachelor’s degree from Peking University and also conducted research visits at Microsoft Research Asia and the Takanishi Lab at Waseda University. Beyond academia, he has contributed to IEEE Spectrum Robotics. His long-term goal is to “build the good stuff, and help the good happen.”
+    Fan Shi is an Assistant Professor at the National University of Singapore, where he holds the prestigious NUS Presidential Young Professorship. His research lies at the intersection of artificial intelligence and robotics, with a focus on physical simulation, robot learning, and the development of scalable methods for embodied intelligence. His work has been recognized through awards and support from leading organizations, including the NVIDIA Academic Grant Program, Google Research, and the Swiss AI Initiative.
   </p>
 
 
@@ -130,12 +130,29 @@ related_publications: true
   <h4 class="mt-4">Abstract</h4>
 
   <p>
-    TBD
+    Robot learning fundamentally depends on access to abundant, high-quality, and low-cost data. Humanoid robots present unique challenges and opportunities—combining locomotion over rigid terrains (mostly) with manipulation of diverse, often deformable, objects. While synthetic data has driven remarkable progress in locomotion through deep reinforcement learning, manipulation remains limited by data scarcity and simulation fidelity. In this talk, I will discuss our recent advances in simulation technology inspired by our breakthroughs in computer graphics, aimed at enabling more effective humanoid learning for complex loco-manipulation tasks. Our new simulation engine delivers significant improvements in both speed and accuracy for deformable object dynamics, unlocking a wide range of contact-rich tasks previously deemed infeasible. I will conclude by outlining how these advances may shape the next frontier of humanoid intelligence, where realistic synthetic data bridges the gap between simulation and the real world.
   </p>
 
   <p class="text-right mt-4">
     <a href="#schedule">↑ Back to seminar schedule</a>
   </p>
+
+  <!-- Scrolling Image Gallery -->
+  <div class="seminar-gallery-wrapper">
+    <div class="seminar-gallery-scroll" tabindex="0" aria-label="Fan image gallery. Scroll horizontally to view more images.">
+      {% for i in (1..1) %}
+        {% capture image_path %}assets/img/course/seminar2026/shifan/0{{ i }}.jpg{% endcapture %}
+
+        <div class="seminar-gallery-slide">
+          {% include figure.liquid
+            loading="lazy"
+            path=image_path
+            class="rounded z-depth-1"
+          %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
 </section>
 
