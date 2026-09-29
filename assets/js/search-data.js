@@ -410,7 +410,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
+            },},{id: "news-isd-seminar-2026",
+          title: 'ISD Seminar 2026',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
