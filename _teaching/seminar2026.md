@@ -69,6 +69,19 @@ related_publications: true
           </a>
         </td>
       </tr>
+
+      <tr>
+        <td>October 5</td>
+        <td>13:30–14:30</td>
+        <td>Rm 4621</td>
+        <td>Prof. FANG, Guoxin (CUHK)</td>
+        <td>Prof. Ziqi Wang</td>
+        <td>
+          <a href="#guoxin-fang">
+            Computational Innovation for Robotics and Advanced Manufacturing
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -246,6 +259,86 @@ related_publications: true
   <p class="text-right mt-4">
     <a href="#schedule">↑ Back to seminar schedule</a>
   </p>
+
+</section>
+
+<!-- =========================================================
+     Talk 3
+     ========================================================= -->
+
+<section id="guoxin-fang" class="seminar-talk">
+
+  <h2>
+    Computational Innovation for Robotics and Advanced Manufacturing
+  </h2>
+
+  <!-- Speaker + basic information -->
+  <div class="row align-items-start mt-4">
+
+    <div class="col-md-3 mb-4">
+      {% include figure.liquid
+        loading="eager"
+        path="assets/img/course/seminar2026/guoxin/bio.png"
+        title="Professor FANG，Guoxin"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </div>
+
+    <div class="col-md-9">
+
+      <h3>Prof. FANG，Guoxin</h3>
+
+      <p class="text-muted">
+        Department of Mechanical and Automation Engineering<br>
+        The Chinese University of Hong Kong
+      </p>
+
+      <p>
+        <strong>Date:</strong> October 5<br>
+        <strong>Time:</strong> 13:30–14:30<br>
+        <strong>Location:</strong> Rm 4621
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <!-- Speaker biography -->
+  <h4 class="mt-4">Speaker Bio</h4>
+
+  <p>
+    Dr. Guoxin Fang is currently an Assistant Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. He received his Ph.D. degree in Design Engineering from Delft University of Technology, Netherlands, in 2022. He also holds a B.S. degree in Mechanical Engineering from the Beijing Institute of Technology, which he obtained in 2016. Prior to joining CUHK, he worked as a Postdoctoral research associate in digital manufacturing at the University of Manchester, UK. Dr. Fang’s research focuses on the development of computational techniques to advance manufacturing and robotic systems. He has published over 40 research works in the fields of digital manufacturing, computational design, and robotics. Dr. Fang’s research has been recognized with several awards, including the Best Paper Award at the 2022/2025 SIGGRAPH Asia Conference and the Best Paper Award at the ASME IDETC-CIE 2023 conference. He is a member of ASME, IEEE, ACM (SIGGRAPH), and serves as a committee member of the Symposium on Solid & Physical Modeling (SPM) and the ASME Computers and Information in Engineering (CIE) Division.
+  </p>
+
+
+  <!-- Abstract -->
+  <h4 class="mt-4">Abstract</h4>
+
+  <p>
+    Computational innovation is now shaping the future of intelligent robotics and advanced manufacturing. In this talk, I will present our recent developments at the Computational Robotics and Manufacturing Lab (CRML), CUHK in two interconnected areas. First, I will introduce how advanced computation in both design/fabrication/control drives intelligent robotic manipulation, including rigid–soft robotic systems, intuitive teleoperation, and autonomous navigation. Second, I will discuss advances in additive manufacturing with the help of computational system, where computational methods for curved-layer slicing, toolpath generation, and path-constrained motion planning enable support-free fabrication and precise material deposition on complex three-dimensional geometries. Together, these developments illustrate how computation can bridge robot intelligence and manufacturing processes, enabling those systems to perceive, plan, adapt, and create increasingly complex environments.
+  </p>
+
+  <p class="text-right mt-4">
+    <a href="#schedule">↑ Back to seminar schedule</a>
+  </p>
+
+  <!-- Scrolling Image Gallery -->
+  <div class="seminar-gallery-wrapper">
+    <div class="seminar-gallery-scroll" tabindex="0" aria-label="Fan image gallery. Scroll horizontally to view more images.">
+      {% for i in (1..3) %}
+        {% capture image_path %}assets/img/course/seminar2026/guoxin/{{ i }}.jpg{% endcapture %}
+
+        <div class="seminar-gallery-slide">
+          {% include figure.liquid
+            loading="lazy"
+            path=image_path
+            class="rounded z-depth-1"
+          %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 
 </section>
 
