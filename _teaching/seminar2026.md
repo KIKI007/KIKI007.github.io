@@ -45,7 +45,7 @@ related_publications: true
     <tbody>
 
       <tr>
-        <td>September 21</td>
+        <td>September 21 (Mon)</td>
         <td>13:30–14:30</td>
         <td>Rm 4621</td>
         <td>Prof. SHI, Fan (NUS)</td>
@@ -58,7 +58,7 @@ related_publications: true
       </tr>
 
       <tr>
-        <td>September 28</td>
+        <td>September 28 (Mon)</td>
         <td>13:30–14:30</td>
         <td>Rm 4621</td>
         <td>Prof. LEUNG, Pok Yin Victor (CityU)</td>
@@ -71,7 +71,7 @@ related_publications: true
       </tr>
 
       <tr>
-        <td>October 5</td>
+        <td>October 5 (Mon)</td>
         <td>13:30–14:30</td>
         <td>Rm 4621</td>
         <td>Prof. FANG, Guoxin (CUHK)</td>
@@ -82,6 +82,20 @@ related_publications: true
           </a>
         </td>
       </tr>
+
+      <tr>
+        <td>November 5 (Thu)</td>
+        <td>14:00–15:00</td>
+        <td>Rm 2405</td>
+        <td>Prof. Jiyu Li (Sun Yat-sen University)</td>
+        <td>Prof. Kuanming YAO</td>
+        <td>
+          <a href="#jiyu-li">
+            Soft electronics for robust physiological sensing
+          </a>
+        </td>
+      </tr>
+      
     </tbody>
   </table>
 </div>
@@ -319,10 +333,6 @@ related_publications: true
     Computational innovation is now shaping the future of intelligent robotics and advanced manufacturing. In this talk, I will present our recent developments at the Computational Robotics and Manufacturing Lab (CRML), CUHK in two interconnected areas. First, I will introduce how advanced computation in both design/fabrication/control drives intelligent robotic manipulation, including rigid–soft robotic systems, intuitive teleoperation, and autonomous navigation. Second, I will discuss advances in additive manufacturing with the help of computational system, where computational methods for curved-layer slicing, toolpath generation, and path-constrained motion planning enable support-free fabrication and precise material deposition on complex three-dimensional geometries. Together, these developments illustrate how computation can bridge robot intelligence and manufacturing processes, enabling those systems to perceive, plan, adapt, and create increasingly complex environments.
   </p>
 
-  <p class="text-right mt-4">
-    <a href="#schedule">↑ Back to seminar schedule</a>
-  </p>
-
   <!-- Scrolling Image Gallery -->
   <div class="seminar-gallery-wrapper">
     <div class="seminar-gallery-scroll" tabindex="0" aria-label="Fan image gallery. Scroll horizontally to view more images.">
@@ -339,6 +349,91 @@ related_publications: true
       {% endfor %}
     </div>
   </div>
+
+
+  <p class="text-right mt-4">
+    <a href="#schedule">↑ Back to seminar schedule</a>
+  </p>
+
+</section>
+
+<!-- =========================================================
+     Talk 4
+     ========================================================= -->
+
+<section id="jiyu-li" class="seminar-talk">
+
+  <h2>
+   Soft electronics for robust physiological sensing
+  </h2>
+
+  <!-- Speaker + basic information -->
+  <div class="row align-items-start mt-4">
+
+    <div class="col-md-3 mb-4">
+      {% include figure.liquid
+        loading="eager"
+        path="assets/img/course/seminar2026/jiyu/jiyu.png"
+        title="Professor LI, Jiyu"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </div>
+
+    <div class="col-md-9">
+
+      <h3>Prof. LI, Jiyu</h3>
+
+      <p class="text-muted">
+        Department of Biomedical Engineering<br>
+        Sun Yat-Sen University
+      </p>
+
+      <p>
+        <strong>Date:</strong> November 5<br>
+        <strong>Time:</strong> 14:00–15:00<br>
+        <strong>Location:</strong> Rm 2405
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <!-- Speaker biography -->
+  <h4 class="mt-4">Speaker Bio</h4>
+
+  <p>
+    Dr. Jiyu Li is currently an Associate Professor of Biomedical Engineering at Sun Yat-Sen University. Jiyu Li’s research group focuses on skin-integrated electronics, flexible electronics and microfluidics. He received his BS degree from Sun Yat-sen University in 2014, and his Ph.D. from City University of Hong Kong in 2021. He has published 54 papers in Nature and Science Advances, Advanced Science etc., and held 5 patents. Dr. Jiyu Li serves as the director of Flexible Medical Electronics team at SYSU, and co-editor-in-chief of the book “Soft Electronics for Diagnosis, Therapy and Interaction” published by Wiley, and a guest editor of the SCI journal Biosensors. His winning awards such as the 2023 Geneva Invention Gold Medal, the first place in the 2023 FinTech Olympiad Competition and the Outstanding Award of Hong Kong Techathon. He has also received the NSFC Excellent Young Scientist Grant (Overseas) and his products were selected for the Green Fintech Map.
+  </p>
+
+
+  <!-- Abstract -->
+  <h4 class="mt-4">Abstract</h4>
+
+  <p>
+    Robust physiological monitoring under dynamic conditions is essential for wearable healthcare. Yet miniaturized flexible electronics suffer from pronounced interference in complex environments dominated by multi-field coupling. Soft-interface engineering offers an appealing path to decouple interfering physical fields and amplify target physiological signals. We report a universal thermal management strategy using an ultrathin, soft radiative cooling interface (USRI). Integrating radiative and non-radiative heat transfer, the interface achieves >56 °C cooling, conferring superior immunity of skin electronics to external thermal disturbances. Further, we implement a 3D directional sweat transport strategy through structure-device integration. A gradient-hydrophilic substrate accelerates sweat transport by 4000-fold, enhancing the comfort of ECG sensors and supporting high-quality 7-day continuous ECG monitoring. These approaches realize long-term stable wearable sensing. This study presents a physical decoupling strategy for robust soft biosensing and advances the development of multi-modal, high-power-density thin-film vital-sign devices for real-world health applications.
+  </p>
+
+  <!-- Scrolling Image Gallery -->
+  <div class="seminar-gallery-wrapper">
+    <div class="seminar-gallery-scroll" tabindex="0" aria-label="Fan image gallery. Scroll horizontally to view more images.">
+      {% for i in (1..4) %}
+        {% capture image_path %}assets/img/course/seminar2026/jiyu/{{ i }}.jpg{% endcapture %}
+
+        <div class="seminar-gallery-slide">
+          {% include figure.liquid
+            loading="lazy"
+            path=image_path
+            class="rounded z-depth-1"
+          %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <p class="text-right mt-4">
+    <a href="#schedule">↑ Back to seminar schedule</a>
+  </p>
 
 </section>
 
