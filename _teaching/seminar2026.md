@@ -87,11 +87,24 @@ related_publications: true
         <td>November 5 (Thu)</td>
         <td>14:00–15:00</td>
         <td>Rm 2405</td>
-        <td>Prof. Jiyu Li (Sun Yat-sen University)</td>
+        <td>Prof. Jiyu LI (Sun Yat-sen University)</td>
         <td>Prof. Kuanming YAO</td>
         <td>
           <a href="#jiyu-li">
             Soft electronics for robust physiological sensing
+          </a>
+        </td>
+      </tr>
+      
+      <tr>
+        <td>November 9 (Mon)</td>
+        <td>16:00–17:00</td>
+        <td>Rm 2405</td>
+        <td>Prof. Yiyuan YANG (NUS)</td>
+        <td>Prof. Kuanming YAO</td>
+        <td>
+          <a href="#yiyuan">
+          Multimodal Intelligent Biointerfaces For Translational Neurological Care and Drug Development
           </a>
         </td>
       </tr>
@@ -430,6 +443,71 @@ related_publications: true
       {% endfor %}
     </div>
   </div>
+
+  <p class="text-right mt-4">
+    <a href="#schedule">↑ Back to seminar schedule</a>
+  </p>
+
+</section>
+
+<!-- =========================================================
+     Talk 5
+     ========================================================= -->
+
+<section id="yiyuan" class="seminar-talk">
+
+  <h2>
+   Multimodal Intelligent Biointerfaces For Translational Neurological Care and Drug Development
+  </h2>
+
+  <!-- Speaker + basic information -->
+  <div class="row align-items-start mt-4">
+
+    <div class="col-md-3 mb-4">
+      {% include figure.liquid
+        loading="eager"
+        path="assets/img/course/seminar2026/yiyuan/bio.jpg"
+        title="Professor YANG, Yiyuan "
+        class="img-fluid rounded z-depth-1"
+      %}
+    </div>
+
+    <div class="col-md-9">
+
+      <h3>Prof. YANG, Yiyuan</h3>
+
+      <p class="text-muted">
+        Department of Biomedical Engineering & N.1 Institute for Health <br>
+        National University of Singapore
+      </p>
+
+      <p>
+        <strong>Date:</strong> November 9<br>
+        <strong>Time:</strong> 16:00–17:00<br>
+        <strong>Location:</strong> Rm 2405
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <!-- Speaker biography -->
+  <h4 class="mt-4">Speaker Bio</h4>
+
+  <p>
+    Dr. Yang joined the Department of Biomedical Engineering and N.1 Institute for Health at NUS in August 2024 as an Assistant Professor. He was awarded for the Presidential Young Professorship. He earned his Ph.D. in Mechanical Engineering from Northwestern University in 2021 and completed his postdoctoral research at the Massachusetts Institute of Technology in 2024. His research focuses on developing wireless optogenetic devices for exploring neural dynamics and biorobotics. Additionally, he is working on ingestible devices designed for long-term continuous monitoring of activity and pathology in the gastrointestinal tract, as well as closed-loop medication delivery. His contributions have resulted in world-class publications, garnering international recognition; his work was ranked #1 among similarly aged articles in Nature Neuroscience according to Altmetric and featured in over 50 news outlets, including "The Times," "New York Times," and "Science News." In 2024, he received the “Outstanding Young Scientist” award from Microsystems & Nanoengineering. In 2026, he was awarded for “Outstanding Junior Editorial Board Member Award” from Soft Science and “Special Contributions for Academic Initiatives” from Microsystems & Nanoengineering.
+  </p>
+
+
+  <!-- Abstract -->
+  <h4 class="mt-4">Abstract</h4>
+
+  <p>
+    Connecting biological measurements with timely intervention remains a central challenge in neurological care and drug development. Addressing this challenge requires biointerfaces that can accommodate soft tissues, capture complementary biological signals, and translate complex measurements into actionable information. This seminar will present our efforts to integrate flexible bioelectronics, multimodal sensing, and intelligent analysis across therapeutic devices and engineered tissue models. For neurological applications, I will introduce our work on intelligent, closed-loop neuromodulation, highlighting how identifying disease-related states and delivering timely intervention can support more responsive therapeutic strategies. These studies also motivate a broader exploration of multimodal biointerfaces for understanding brain activity and evaluating treatment responses. For drug development, I will discuss our efforts to establish engineered tissue models that capture key features of human tissue microenvironments and allow biological responses to be followed over time. With a focus on hepatic injury and fibrotic remodeling, these platforms aim to support mechanistic studies and more informative evaluation of therapeutic candidates.
+    Beyond direct intervention, neurological care also encompasses how patients interact with their surroundings, creating opportunities for intelligent robots to assist with everyday activities and therapeutic support. Enabling these systems to perceive and respond effectively is an important step toward future care. In this context, I will introduce our flexible optoelectronic computing interface (FOCI) as an intelligent visual system that supports rapid perception and response, alongside an ultrasound-assisted platform that offers therapeutic capabilities for wound care and drug delivery. These complementary directions point toward intelligent care systems that combine responsive interaction with practical therapeutic functions.
+    
+  </p>
 
   <p class="text-right mt-4">
     <a href="#schedule">↑ Back to seminar schedule</a>
