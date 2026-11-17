@@ -109,6 +109,19 @@ related_publications: true
         </td>
       </tr>
       
+      <tr>
+        <td>November 30 (Mon)</td>
+        <td>13:30–14:30</td>
+        <td>Rm 4621</td>
+        <td>Prof. Qiguang He (CUHK)</td>
+        <td>Prof. Richard Gu</td>
+        <td>
+          <a href="#qiguang">
+          Liquid Crystal Elastomer-Based Artificial Muscles and Their Applications
+          </a>
+        </td>
+      </tr>
+
     </tbody>
   </table>
 </div>
@@ -506,6 +519,71 @@ related_publications: true
   <p>
     Connecting biological measurements with timely intervention remains a central challenge in neurological care and drug development. Addressing this challenge requires biointerfaces that can accommodate soft tissues, capture complementary biological signals, and translate complex measurements into actionable information. This seminar will present our efforts to integrate flexible bioelectronics, multimodal sensing, and intelligent analysis across therapeutic devices and engineered tissue models. For neurological applications, I will introduce our work on intelligent, closed-loop neuromodulation, highlighting how identifying disease-related states and delivering timely intervention can support more responsive therapeutic strategies. These studies also motivate a broader exploration of multimodal biointerfaces for understanding brain activity and evaluating treatment responses. For drug development, I will discuss our efforts to establish engineered tissue models that capture key features of human tissue microenvironments and allow biological responses to be followed over time. With a focus on hepatic injury and fibrotic remodeling, these platforms aim to support mechanistic studies and more informative evaluation of therapeutic candidates.
     Beyond direct intervention, neurological care also encompasses how patients interact with their surroundings, creating opportunities for intelligent robots to assist with everyday activities and therapeutic support. Enabling these systems to perceive and respond effectively is an important step toward future care. In this context, I will introduce our flexible optoelectronic computing interface (FOCI) as an intelligent visual system that supports rapid perception and response, alongside an ultrasound-assisted platform that offers therapeutic capabilities for wound care and drug delivery. These complementary directions point toward intelligent care systems that combine responsive interaction with practical therapeutic functions.
+    
+  </p>
+
+  <p class="text-right mt-4">
+    <a href="#schedule">↑ Back to seminar schedule</a>
+  </p>
+
+</section>
+
+<!-- =========================================================
+     Talk 6
+     ========================================================= -->
+
+
+<section id="qiguang" class="seminar-talk">
+
+  <h2>
+   Liquid Crystal Elastomer-Based Artificial Muscles and Their Applications
+  </h2>
+
+  <!-- Speaker + basic information -->
+  <div class="row align-items-start mt-4">
+
+    <div class="col-md-3 mb-4">
+      {% include figure.liquid
+        loading="eager"
+        path="assets/img/course/seminar2026/qiguang/bio.png"
+        title="Professor HE, Qiguang "
+        class="img-fluid rounded z-depth-1"
+      %}
+    </div>
+
+    <div class="col-md-9">
+
+      <h3>Prof. HE, Qiguang</h3>
+
+      <p class="text-muted">
+        Mechanical and Automation Engineering Department<br>
+        The Chinese University of Hong Kong
+      </p>
+
+      <p>
+        <strong>Date:</strong> November 30<br>
+        <strong>Time:</strong> 13:30–14:30<br>
+        <strong>Location:</strong> Rm 4621
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <!-- Speaker biography -->
+  <h4 class="mt-4">Speaker Bio</h4>
+
+  <p>
+    Qiguang He is an Assistant Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. He received his bachelor's degree from Tsinghua University in 2015, and his master's and doctoral degrees from the University of California, San Diego in 2017 and 2021, respectively. He then conducted postdoctoral research at the University of Pennsylvania and joined The Chinese University of Hong Kong in 2023. His main research interests include smart soft materials, artificial muscles, mechanical metamaterials, and soft robotics. He is committed to achieving multifunctional integration and physical intelligence in robots through material and structural design. His research has been published in leading international journals, such as Science Robotics (2), Science Advances (6), Nature Computational Science, and Advanced Materials.
+  </p>
+
+
+  <!-- Abstract -->
+  <h4 class="mt-4">Abstract</h4>
+
+  <p>
+    Liquid crystal elastomers (LCEs) are a class of smart materials that combine the anisotropy of liquid crystals with the elasticity of polymers. They can undergo reversible, large-amplitude deformation under external stimuli, showing broad prospects in the fields of artificial muscles and soft robotics. This presentation focuses on the functional integration and robotic applications of LCE-based artificial muscles. First, it introduces how material design and structural regulation can endow LCEs with multiple functions, including programmable deformation, variable stiffness, and autonomous sensing, thereby enabling a transition from single actuation to multifunctional integration. It then discusses how LCEs can be combined with mechanical structures with specific responses to integrate environmental perception, information processing, and behavioral response into the materials and structures themselves, thereby constructing soft robots with physical intelligence that can achieve autonomous motion and environmental adaptation without complex electronic control. This presentation aims to present research progress from smart materials and smart structures to smart robots, and to explore their application potential in next-generation autonomous soft robots.
     
   </p>
 
